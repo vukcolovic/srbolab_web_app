@@ -1,0 +1,6 @@
+soda create -a    - na osnovu database.yml fajla kreira bazu podataka
+
+soda generate fizz CreateExaminationRequestsTable  // i migration folderu pravi fajlove za sql komande
+
+soda migrate    //pravi sql fajl
+soda migrate up    //da izvrsi sql iz fajlova

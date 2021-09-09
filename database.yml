@@ -1,0 +1,10 @@
+development:
+  dialect: sqlite3
+  database: C:\dev\go\src\srbolab\srbolab.db3
+  user: sqlite3
+  password: passw0rd
+  host: localhost
+  pool: 5
+
+
+
